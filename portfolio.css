@@ -60,7 +60,7 @@ nav .menu a{
 #banner{
     margin: 47px 38px 0px 230px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
